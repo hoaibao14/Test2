@@ -1,0 +1,8 @@
+C:\Users\bao.lh\Documents\Visual Studio 2010\Projects\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+C:\Users\bao.lh\Documents\Visual Studio 2010\Projects\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+C:\Users\bao.lh\Documents\Visual Studio 2010\Projects\DiagonalDifference\DiagonalDifference\obj\x86\Debug\DiagonalDifference.Form1.resources
+C:\Users\bao.lh\Documents\Visual Studio 2010\Projects\DiagonalDifference\DiagonalDifference\obj\x86\Debug\DiagonalDifference.Properties.Resources.resources
+C:\Users\bao.lh\Documents\Visual Studio 2010\Projects\DiagonalDifference\DiagonalDifference\obj\x86\Debug\DiagonalDifference.csproj.GenerateResource.Cache
+C:\Users\bao.lh\Documents\Visual Studio 2010\Projects\DiagonalDifference\DiagonalDifference\obj\x86\Debug\DiagonalDifference.exe
+C:\Users\bao.lh\Documents\Visual Studio 2010\Projects\DiagonalDifference\DiagonalDifference\obj\x86\Debug\DiagonalDifference.pdb
+C:\Users\bao.lh\Documents\Visual Studio 2010\Projects\DiagonalDifference\DiagonalDifference\obj\x86\Debug\DiagonalDifference.csprojResolveAssemblyReference.cache
